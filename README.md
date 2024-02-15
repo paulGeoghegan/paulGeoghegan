@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Geoghegan</h1>
-<h3 align="center">A passionate blind developer and director from Ireland</h3>
+<h3 align="center">A passionate blind developer and director at Envisionly from Ireland</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulgeoghegan" alt="paulgeoghegan" /></a> </p>
 
@@ -14,14 +14,15 @@
 - 📫 How to reach me **contact@envisionly.tech**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/paultdgeoghegan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paultdgeoghegan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/envisionlytech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="envisionlytech" height="30" width="40" /></a>
-<a href="/https://envisionly.tech/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://envisionly.tech/rss.xml" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paultdgeoghegan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Follow me on LinkedIn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@EnvisionlyTech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Subscribe on YouTube" height="30" width="40" /></a>
+<a href="/https://envisionly.tech/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="My podcast RSS feed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulgeoghegan&show_icons=true&locale=en" alt="paulgeoghegan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulgeoghegan&" alt="paulgeoghegan" /></p>
-
